@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fafafa;
+}
+.container {
+  border: 1px solid #eaecef;
+  border-radius: 10px;
+  height: 270px;
+}
+.input-group {
+  height: 55px;
+}
+.btn-group {
+  height: 50px;
+  width: 100%;
+  margin-top: 15px;
+}
+.resultText {
+  height: 50px;
+  width: 100%;
+  margin-top: 15px;
+  text-align: center;
+  border: 1px solid #eaecef;
+  border-radius: 10px;
+  background-color: #eaecef;
+}
+.resultText h3 {
+  position: relative;
+  top: 9px;
+}
